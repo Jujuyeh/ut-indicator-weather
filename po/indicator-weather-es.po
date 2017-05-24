@@ -2,20 +2,22 @@
 # Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
 # This file is distributed under the same license as the ut-indicator-weather package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+# Jujuyeh <paul.98.zgz@gmail.com>, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ut-indicator-weather\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2017-01-04 20:24+0000\n"
-"PO-Revision-Date: 2017-01-07 08:12+0000\n"
-"Last-Translator: Adolfo Jayme <fitoschido@gmail.com>\n"
-"Language-Team: Spanish <es@li.org>\n"
+"PO-Revision-Date: 2017-05-24 12:34+0200\n"
+"Last-Translator: Jujuyeh <paul.98.zgz@gmail.com>\n"
+"Language-Team: Español; Castellano <paul.98.zgz@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2017-01-08 04:28+0000\n"
-"X-Generator: Launchpad (build 18302)\n"
+"X-Generator: Gtranslator 2.91.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../qml/WeatherProviderSelect.qml:19
 msgid "Weather Provider"
@@ -91,7 +93,7 @@ msgstr "Instalado correctamente, reinicie"
 
 #: ../qml/Main.qml:233
 msgid "Failed to install"
-msgstr "Fallo al instalar"
+msgstr "Falló la instalación"
 
 #: ../qml/Main.qml:241
 msgid "Successfully uninstalled, please reboot"
@@ -121,18 +123,18 @@ msgstr "Kelvin"
 #: ../indicator/bhdouglass-indicator-weather.py:132
 #: ../indicator/bhdouglass-indicator-weather.py:150
 msgid "Clear"
-msgstr "Limpiar"
+msgstr "Despejado"
 
 #: ../indicator/bhdouglass-indicator-weather.py:133
 #: ../indicator/bhdouglass-indicator-weather.py:156
 #: ../indicator/bhdouglass-indicator-weather.py:158
 msgid "Rainy"
-msgstr "Lluvioso"
+msgstr "Lluvia"
 
 #: ../indicator/bhdouglass-indicator-weather.py:134
 #: ../indicator/bhdouglass-indicator-weather.py:162
 msgid "Snowy"
-msgstr "Nevado"
+msgstr "Nieve"
 
 #: ../indicator/bhdouglass-indicator-weather.py:135
 msgid "Sleet"
@@ -142,19 +144,19 @@ msgstr "Aguanieve"
 #: ../indicator/bhdouglass-indicator-weather.py:166
 #: ../indicator/bhdouglass-indicator-weather.py:168
 msgid "Windy"
-msgstr "Ventoso"
+msgstr "Viento"
 
 #: ../indicator/bhdouglass-indicator-weather.py:137
 #: ../indicator/bhdouglass-indicator-weather.py:154
 msgid "Foggy"
-msgstr "Brumoso"
+msgstr "Niebla"
 
 #: ../indicator/bhdouglass-indicator-weather.py:138
 #: ../indicator/bhdouglass-indicator-weather.py:139
 #: ../indicator/bhdouglass-indicator-weather.py:140
 #: ../indicator/bhdouglass-indicator-weather.py:152
 msgid "Cloudy"
-msgstr "Nuboso"
+msgstr "Nublado"
 
 #: ../indicator/bhdouglass-indicator-weather.py:141
 #: ../indicator/bhdouglass-indicator-weather.py:164
@@ -164,7 +166,7 @@ msgstr "Granizo"
 #: ../indicator/bhdouglass-indicator-weather.py:142
 #: ../indicator/bhdouglass-indicator-weather.py:160
 msgid "Stormy"
-msgstr "Tormentoso"
+msgstr "Tormenta"
 
 #: ../indicator/bhdouglass-indicator-weather.py:143
 #: ../indicator/bhdouglass-indicator-weather.py:170
@@ -173,15 +175,15 @@ msgstr "Tornado"
 
 #: ../indicator/bhdouglass-indicator-weather.py:172
 msgid "Hurricane"
-msgstr ""
+msgstr "Huracán"
 
 #: ../indicator/bhdouglass-indicator-weather.py:174
 msgid "Extreme Cold"
-msgstr ""
+msgstr "Frío extremo"
 
 #: ../indicator/bhdouglass-indicator-weather.py:176
 msgid "Extreme Heat"
-msgstr ""
+msgstr "Calor extremo"
 
 #: ../indicator/bhdouglass-indicator-weather.py:263
 msgid "Forecast"
@@ -206,4 +208,4 @@ msgstr "Error al recuperar el tiempo"
 #: ../indicator/bhdouglass-indicator-weather.py:434
 #, python-brace-format
 msgid "{condition} and {temperature}°"
-msgstr "{condition} y {temperature}°"
+msgstr "{condition}, {temperature}°"
